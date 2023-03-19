@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task29\obj\Debug\net7.0\Task29.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task29\obj\Debug\net7.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task29\obj\Debug\net7.0\Task29.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task29\obj\Debug\net7.0\Task29.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task29\obj\Debug\net7.0\Task29.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task29\bin\Debug\net7.0\Task29.exe
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task29\bin\Debug\net7.0\Task29.deps.json
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task29\bin\Debug\net7.0\Task29.runtimeconfig.json
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task29\bin\Debug\net7.0\Task29.dll
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task29\bin\Debug\net7.0\Task29.pdb
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task29\obj\Debug\net7.0\Task29.dll
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task29\obj\Debug\net7.0\refint\Task29.dll
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task29\obj\Debug\net7.0\Task29.pdb
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task29\obj\Debug\net7.0\Task29.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task29\obj\Debug\net7.0\ref\Task29.dll

@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task25\obj\Debug\net7.0\Task25.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task25\obj\Debug\net7.0\Task25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task25\obj\Debug\net7.0\Task25.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task25\obj\Debug\net7.0\Task25.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task25\obj\Debug\net7.0\Task25.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task25\bin\Debug\net7.0\Task25.exe
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task25\bin\Debug\net7.0\Task25.deps.json
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task25\bin\Debug\net7.0\Task25.runtimeconfig.json
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task25\bin\Debug\net7.0\Task25.dll
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task25\bin\Debug\net7.0\Task25.pdb
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task25\obj\Debug\net7.0\Task25.dll
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task25\obj\Debug\net7.0\refint\Task25.dll
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task25\obj\Debug\net7.0\Task25.pdb
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task25\obj\Debug\net7.0\Task25.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\HomeWork\CSharp4\Task25\obj\Debug\net7.0\ref\Task25.dll
